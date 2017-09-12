@@ -75,6 +75,17 @@ exports.loadFonts = (path, options) => ({
     }
 });
 
+exports.loadImages = () => ({
+    module: {
+        loaders: [{
+          test: /\.(png|svg|jpg|gif)$/,
+          use: [
+            'file-loader?hash=sha512&digest=hex&name=[name].[hash:8].[ext]'
+          ]
+        }],
+    }
+});
+
 exports.loadJSX = () => ({
     module:{
         loaders: [{

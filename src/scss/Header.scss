@@ -1,0 +1,57 @@
+.Header {
+  width: 100%;
+  background-color: #000;
+  padding: 2em 0;
+
+  .container {
+    display: flex;
+    align-items: center;
+
+    div.clickables {
+      text-align: right;
+
+      div.search {
+        margin-bottom: 1em;
+
+        input.search-bar {
+          width: 300px;
+          margin-right: 1em;
+        }
+      }
+
+
+
+      div.header-links {
+
+        a {
+          color: white;
+          padding: 0 1em;
+        }
+
+        a:first-child {
+          position: relative;
+          bottom: 1px;
+        }
+
+        a:nth-of-type(2) {
+          position: relative;
+          top: 4px;
+        }
+      }
+
+      a.account, a.cart {
+        border-right: 1px solid white;
+      }
+    }
+  }
+}
+
+
+@media (max-width: 767px) {
+  .logo {
+    text-align: center;
+  }
+  .clickables {
+    display: none;
+  }
+}

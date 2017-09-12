@@ -1,0 +1,17 @@
+.Footer {
+  background-color: #000000;
+  padding: 1em 0;
+
+  .footer-links {
+    text-align: right;
+    a {
+      color: #ffffff;
+      padding-right: 1em;
+    }
+
+    a:last-child{
+      position: relative;
+      top: .3em;
+    }
+  }
+}

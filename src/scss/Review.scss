@@ -1,0 +1,105 @@
+.Review {
+  background-color: #00314F;
+  color: #ffffff;
+
+  img {
+    display: block;
+  }
+
+  .reviews {
+    display: flex;
+    align-items: baseline;
+    text-align: right;
+
+    span:nth-child(2) {
+      text-decoration: underline;
+      margin-left: 2em;
+      cursor: pointer;
+    }
+
+  }
+
+  .review {
+    margin-bottom: 2em;
+
+    .reviewer-name {
+      width: 120px;
+      padding-left: 1.2em;
+    }
+
+    .reviewer-details {
+      margin-bottom: 1em;
+      display: flex;
+      align-items: flex-start;
+
+      span {
+        margin-right: 1em;
+      }
+
+      span:first-child {
+        font-weight: bold;
+        font-size: 1.25em;
+      }
+
+      .reviewer-title {
+        padding-bottom: 1em;
+      }
+    }
+
+    .reviewer-description {
+      padding: 0 1em;
+    }
+  }
+
+}
+
+@media (max-width: 767px) {
+  .reviewer-identity {
+    text-align: -webkit-center;
+
+    .reviewer-name {
+      padding: 0 !important;
+    }
+  }
+  .reviewer-details {
+    justify-content: center;
+  }
+
+
+}
+
+.rsr-container input {
+  display: none;
+}
+
+.Modal {
+  font-family: 'Raleway' sans-serif;
+  font-size: 1.2em;
+
+  .modal-header{
+    display: flex;
+    border-bottom: none;
+  }
+  textarea.modal-text {
+    width: 100%;
+  }
+
+  input.modal-title{
+    width: 90.7%;
+    margin-bottom: .5em;
+  }
+
+  .btn {
+    background-color: #5DA2AB;
+    color: #ffffff;
+    float: right;
+  }
+
+  svg{
+    margin-left: .5em;
+  }
+
+  path:not(:last-child) {
+    fill: #5DA2AB;
+  }
+}

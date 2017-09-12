@@ -12,13 +12,13 @@ const PATHS = {
     public: path.join(__dirname, 'public'),
     src: path.join(__dirname, 'src'),
     styles: path.join(__dirname, 'src', 'scss'),
-    fonts: path.join(__dirname, 'src', 'fonts'),
+    assets: path.join(__dirname, 'src', 'assets'),
 };
 
 //Reference to the host name and port number
 const options = {
     host: 'localhost',
-    port: 8080,
+    port: 8085,
 };
 
 //Configuration used for both the Development and Production Environment
@@ -72,6 +72,7 @@ const commonConfig = merge([
         ],
     },
     // Imports SASS loader
+    parts.loadImages(),
     parts.loadSASS(PATHS.styles),
     // Imports Babel loader
     parts.loadJSX(),
@@ -86,6 +87,7 @@ const productionConfig = merge([
                 'react-dom',
             ],
         },
+      target: 'web',
     },{
         plugins: [
             parts.cleanPublic(PATHS.public),
@@ -121,7 +123,7 @@ const productionConfig = merge([
 const developmentConfig = merge([
     {
         entry: {
-            index: PATHS.src,
+          index: PATHS.src
         },
         output: {
             devtoolModuleFilenameTemplate: 'webpack:///[absolute-resource-path]',
