@@ -2,43 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fb6beef-73f6-417a-b89e-706d44afbb5e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/axiom-logo-main.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/axiom-logo-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/fb-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/reviewer1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/reviewer2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/search-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/topsection-background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/tough-mojo-jacket-img1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/tough-mojo-jacket-img2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/twitter-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/RobTheHuman.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/postcss.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Footer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Header.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Item.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Nav.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Review.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scss/Footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scss/Header.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scss/Item.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scss/Nav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scss/Review.scss" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/App.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/index.ae9b9d77.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/index.ae9b9d77.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/manifest.ae9b9d77.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/manifest.ae9b9d77.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style.52381a79.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style.52381a79.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/vendor.ae9b9d77.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/vendor.ae9b9d77.js.map" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/container/App.js" afterPath="$PROJECT_DIR$/src/container/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scss/App.scss" afterPath="$PROJECT_DIR$/src/scss/App.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scss/index.scss" afterPath="$PROJECT_DIR$/src/scss/index.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.parts.js" afterPath="$PROJECT_DIR$/webpack.parts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/manifest.json" afterPath="$PROJECT_DIR$/public/manifest.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stats.json" afterPath="$PROJECT_DIR$/stats.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -52,31 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Footer.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scss/Footer.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Header.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Header.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Header.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/scss/Header.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
-              <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+              <caret line="31" column="29" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,17 +51,17 @@
         <entry file="file://$PROJECT_DIR$/src/scss/index.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Item.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Item.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Item.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
-              <caret line="94" column="83" lean-forward="false" selection-start-line="94" selection-start-column="83" selection-end-line="94" selection-end-column="83" />
+            <state relative-caret-position="303">
+              <caret line="72" column="45" lean-forward="false" selection-start-line="72" selection-start-column="45" selection-end-line="72" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -106,29 +71,39 @@
         <entry file="file://$PROJECT_DIR$/src/scss/Item.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="416">
-              <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+              <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Nav.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Nav.js">
+      <file leaf-file-name="manifest.2f08fcc7.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/manifest.2f08fcc7.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#0#41#0" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Nav.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scss/Nav.scss">
+      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9">
-              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="61" selection-end-column="27" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="622">
+              <caret line="65" column="27" lean-forward="false" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -261,6 +236,11 @@
             <path>
               <item name="sapient-react" type="b2602c69:ProjectViewProjectNode" />
               <item name="sapient-react" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sapient-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sapient-react" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -335,12 +315,12 @@
       <updated>1504901907425</updated>
       <workItem from="1504901908550" duration="7964000" />
       <workItem from="1505084055669" duration="21877000" />
-      <workItem from="1505185053860" duration="22888000" />
+      <workItem from="1505185053860" duration="23170000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52729000" />
+    <option name="totallyTimeSpent" value="53011000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -353,7 +333,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="603" y="23" width="837" height="838" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27328432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -363,7 +342,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.73441106" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43607" sideWeight="0.78969955" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43607" sideWeight="0.78969955" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -404,11 +383,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/assets/twitter-icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/Item.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1500">
@@ -422,7 +396,7 @@
         <state relative-caret-position="120">
           <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -532,21 +506,6 @@
     <entry file="file://$PROJECT_DIR$/src/App.test.js" />
     <entry file="file://$PROJECT_DIR$/public/style.db6e9aac.css" />
     <entry file="file://$PROJECT_DIR$/public/style.db6e9aac.css.map" />
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/manifest.4e9e5fd0.js" />
     <entry file="file://$PROJECT_DIR$/stats.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -645,17 +604,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="65" column="27" lean-forward="false" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
-          <folding>
-            <marker date="1505229229000" expanded="true" signature="191:491" ph="{&quot;babel-polyfill&quot;: &quot;^6.26.0&quot;...}" />
-            <marker date="1505229229000" expanded="true" signature="506:877" ph="{&quot;start&quot;: &quot;nodemon --watch webpack.config.js --exec \&quot;webpack-dev-server --hot --env development\&quot;&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-459">
@@ -669,7 +617,7 @@
         <state relative-caret-position="195">
           <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -687,7 +635,7 @@
         <state relative-caret-position="150">
           <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -719,7 +667,7 @@
     <entry file="file://$PROJECT_DIR$/src/scss/Header.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
-          <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+          <caret line="31" column="29" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -727,7 +675,7 @@
     <entry file="file://$PROJECT_DIR$/src/scss/index.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -735,7 +683,7 @@
     <entry file="file://$PROJECT_DIR$/src/scss/Item.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
-          <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -760,9 +708,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Item.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="94" column="83" lean-forward="false" selection-start-line="94" selection-start-column="83" selection-end-line="94" selection-end-column="83" />
+        <state relative-caret-position="303">
+          <caret line="72" column="45" lean-forward="false" selection-start-line="72" selection-start-column="45" selection-end-line="72" selection-end-column="45" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="65" column="27" lean-forward="false" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/manifest.2f08fcc7.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
