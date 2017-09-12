@@ -102,4 +102,7 @@
   path:not(:last-child) {
     fill: #5DA2AB;
   }
+  path:last-child {
+    stroke: #5DA2AB;
+  }
 }

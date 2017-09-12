@@ -105,7 +105,7 @@ class Review extends Component {
                     <textarea className="modal-text" rows={5} placeholder="- Write your review here - "/>
                   </div>
                   <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                    <a href="/" className="btn">Submit Review</a>
+                    <a href="http://localhost:8085/" className="btn" onClick={()=> this.setState({modalIsOpen: false})}>Submit Review</a>
                   </div>
                 </div>
               </Modal>
